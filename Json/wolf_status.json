@@ -1,0 +1,9 @@
+{
+  "name": "Wolf",
+  "speed": 2,
+  "detection_area": 70,
+  "battle_area": 25,
+  "health": 30,
+  "attack_power": 4,
+  "attack_cooldown": 1.0
+}

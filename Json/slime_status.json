@@ -1,0 +1,9 @@
+{
+  "name": "Slime",
+  "speed": 1,
+  "detection_area": 50,
+  "battle_area": 20,
+  "health": 20,
+  "attack_power": 2,
+  "attack_cooldown": 1.5
+}

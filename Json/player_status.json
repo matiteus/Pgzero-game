@@ -1,0 +1,7 @@
+{
+  "name": "Player",
+  "speed": 2,
+  "attack_range": 50,
+  "health": 50,
+  "attack_power": 8
+}

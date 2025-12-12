@@ -1,0 +1,9 @@
+{
+  "name": "Goblin",
+  "speed": 1.0,
+  "detection_area": 80,
+  "battle_area": 20,
+  "health": 25,
+  "attack_power": 15,
+  "attack_cooldown": 2
+}
